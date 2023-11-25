@@ -11,14 +11,16 @@ function HomePage() {
         <h1>This is the Home Page! </h1>
         
         <br></br>
-        Welcome this is an introductory web application built using react.
+        Welcome this is an introductory web application built using React.js.
         <br></br> 
+        The navbar was built using React Router Dom.
+        <br></br>
         <br></br> 
-        Click on the nav bar to go and explore the different pages.
+        Click on the navbar to go and explore the different pages.
         <br></br>
         Such as the tic-tac-toe page and the api exercise page.
         <br></br>
-        Or watch some videos on react below. 
+        Or watch some videos on React below. 
         <br></br>
         <br></br> 
 
@@ -29,7 +31,7 @@ function HomePage() {
 
         <div>
         <br></br>
-        <h1>Here are some useful videos for learning react!</h1>
+        <h1>Here are some useful videos for learning React!</h1>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Tn6-PIqc4UM?si=DrmWr6SN4roeHBjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/N3AkSS5hXMA?si=gabAUOr0-Gpg_rvH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <br></br>
